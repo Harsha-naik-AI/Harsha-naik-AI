@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi, I'm Harsha Naik</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Generative AI Engineer from India</h3>
 <img align="right" alt="AI" width=400 src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*ui3IvoiVYBFtaU0auj63ew.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myworksharshanaik&label=Profile%20views&color=0e75b6&style=flat" alt="myworksharshanaik" /> </p>
